@@ -20,13 +20,13 @@ This project focuses on promoting **mental health awareness** and providing esse
 ---
 
 ## 🧠 Project Overview  
-The **Emergency and Mental Well-being** project provides users with tools to monitor, improve, and manage their mental health effectively.  
+The **Mental Well-being** project provides users with tools to monitor, improve, and manage their mental health effectively.  
 It includes features such as **user authentication**, **mental health assessments**, **mood tracking**, **task management**, and **video recommendations** for stress relief.
 
 ---
 
 ## 🧩 Tech Stack  
-**Frontend:** React, JavaScript  
+**Frontend:** HTML, CSS, and JavaScript, with Thymeleaf for server-side rendering
 **Backend:** Spring Boot, Java  
 **Database:** H2 / MySQL  
 **Testing:** Postman  
@@ -73,13 +73,6 @@ mvn clean install
 mvn spring-boot:run
 ````
 
-#### Frontend
-
-```bash
-cd frontend
-npm install
-npm start
-```
 
 Access the application at **[http://localhost:3000](http://localhost:3000)**
 
